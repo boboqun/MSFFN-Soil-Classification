@@ -1,0 +1,13 @@
+# Core deep-learning stack
+tensorflow>=2.10,<2.16
+
+# Numerics, image I/O and plotting
+numpy>=1.22
+Pillow>=9.0
+matplotlib>=3.5
+
+# Metrics (confusion matrix in run_experiment.py)
+scikit-learn>=1.1
+
+# White-card / ruler detection in prepare_dataset.py
+opencv-python>=4.5

@@ -1,0 +1,34 @@
+# Generated data and model artefacts
+dataset/
+dataset_original/
+checkpoints/
+results/
+plots/
+logs/
+exported_models/
+paper_plots_final/
+gradcam_panels/
+
+# Training control files
+*.pid
+*.weights.h5
+*.keras
+*.log
+epoch_state.json
+metrics.json
+split_manifest.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
