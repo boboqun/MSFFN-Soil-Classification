@@ -40,7 +40,7 @@ There are two ways to obtain the patch-level dataset.
 The 92,050 ruler-filtered 224x224 RGB patches with the original-image-level
 `train`/`val`/`test` split manifest are archived on Zenodo:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20404766.svg)](https://doi.org/10.5281/zenodo.20404766)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20404766.svg?v=1)](https://doi.org/10.5281/zenodo.20404766)
 
 1. Download the dataset archive and extract it.
 2. Place the resulting directory under the repository root so that the layout is:
